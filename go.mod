@@ -1,4 +1,4 @@
-module github.com/twitchscience/kinsumer
+module github.com/wiseco/kinsumer
 
 go 1.14
 
